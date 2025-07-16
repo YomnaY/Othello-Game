@@ -26,6 +26,6 @@ This repository contains a Python implementation of the classic strategy board g
 4. Follow the on-screen instructions to make your moves.
 5. Enjoy playing Othello and challenge yourself against the computer's Alpha-Beta algorithm!
 
-![Levels](https://github.com/YomnaY/Othello-Game/blob/master/images/img0.PNG)
-![Game Start:](https://github.com/YomnaY/Othello-Game/blob/master/images/img1.PNG)
-![Througth The Game:](https://github.com/YomnaY/Othello-Game/blob/master/images/img2.PNG)
+![Levels](https://github.com/YomnaY/Othello-Game/blob/main/images/img0.PNG)
+![Game Start:](https://github.com/YomnaY/Othello-Game/blob/main/images/img1.PNG)
+![Througth The Game:](https://github.com/YomnaY/Othello-Game/blob/main/images/img2.PNG)
